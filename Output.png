@@ -1,0 +1,16 @@
+Book Dataset
+----------------------------------------
+Title                 Price    Rating
+----------------------------------------
+The Great Gatsby      350      4.5
+Harry Potter          450      4.8
+The Alchemist         300      4.6
+Rich Dad Poor Dad     280      4.4
+Atomic Habits         500      4.9
+
+Data Analysis Results
+----------------------------------------
+Total Books       : 5
+Average Price     : 376.00
+Highest Rated Book: Atomic Habits
+Highest Rating    : 4.9
