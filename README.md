@@ -1,20 +1,16 @@
-
-CodeAlpha Task 1 - Web Scraping
+CodeAlpha Task 1 - Data Collection and Analysis
 
 Project Title
 
-Web Scraping Using Python
+Book Dataset Analysis Using Python
 
 Objective
 
-The objective of this project is to collect data from a website using web scraping techniques. The extracted data is processed and stored in a structured format for further analysis.
+The objective of this project is to demonstrate basic data collection, organization, and analysis using Python. A sample dataset of books is used to perform statistical analysis and identify key insights.
 
 Tools Used
 
 - Python
-- BeautifulSoup
-- Requests
-- Pandas
 - Online Python Compiler
 - GitHub
 
@@ -23,14 +19,14 @@ How to Run
 1. Open an online Python compiler.
 2. Copy and paste the Python code into the editor.
 3. Run the program.
-4. The script will scrape data from the target website and display the extracted information.
-5. The output can be saved for further analysis.
+4. View the dataset and analysis results.
 
 Output
 
-- Successfully extracted data from a webpage.
-- Displayed the scraped data in a structured format.
-- Prepared the data for further analysis and visualization.
+- Displayed book dataset in a structured format.
+- Calculated average book price.
+- Identified the highest-rated book.
+- Generated summary statistics for analysis.
 
 Internship Details
 
